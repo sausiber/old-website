@@ -33,7 +33,7 @@ SaüSiber kurulduğu günden bugüne kadar, kuruluş amacı ile ilgili öğrenci
 RaConf ile ülkemizde siber güvenlik konusunda farkındalık yaratmak ve bu konudaki en büyük zafiyet olan insan faktörünün bilgilendirilmesi hedeflenmektedir. Bu gaye ile gerek özel gerekse kamu kurum ve kuruluşlarıyla siber güvenlik sektörünü bir araya getirerek siber güvenlik konusunda bireylerin kendilerini geliştirmeleri adına seminerler, röportajlar, eğitimler ve yarışmalar planlanmaktadır. Raconf; teknik içeriğin yanı sıra, siber güvenliğin disiplinler arası çalışmalardaki etkisini gün yüzüne çıkararak çeşitli alanlardaki önemini de paylaşmak üzere organize edilmiş bir etkinliktir. 
 
 
-<h4>Akademik Başkanımız</h4>
+Akademik Başkanımız
 Dr. İbrahim ÖZÇELİK
 
 *[volutpat]: Tooltip for abbreviation.
