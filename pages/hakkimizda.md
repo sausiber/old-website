@@ -34,6 +34,7 @@ RaConf ile ülkemizde siber güvenlik konusunda farkındalık yaratmak ve bu kon
 
 
 Akademik Başkanımız
+<br>
 Dr. İbrahim ÖZÇELİK
 
 *[volutpat]: Tooltip for abbreviation.
