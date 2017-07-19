@@ -100,7 +100,7 @@ Nmap te bazı taramaları kullanabilmeniz için yetkili bir kullanıcı ile çal
 <em><strong>FIN scan</strong> de sadece FIN bit i set edilir.</em> (<strong>-sF</strong>)
 <em><strong>Xmas scan</strong> de FIN, PSH ve URG flag leri set edilir.</em> (<strong>-sX</strong>)
 
-<img class="size-large wp-image-278" src="http://sausiber.org/images/nmap/nmap-fin-scan-1024x448.png" alt="" width="750" height="328" /> 
+<img class="size-large wp-image-278" src="http://sausiber.org/images/nmap/nmap-fin-scan.png" alt="" width="750" height="328" /> 
 
 Gördüğünüz gibi bir taraftan nmap <em>FIN taraması</em> yaptığımda sağ tarafta <strong><em>tcpdump</em></strong> çıktılarından "Flags" kısmında FIN flag inin set edildiğini görebiliyoruz.</li>
  	<li><em><strong>TCP ACK (-sA)</strong></em> taramasında ise bu sefer ACK flag ini set edip gönderiyoruz. Bu taramayı portun <em>açık yada kapalı olduğunu anlamak için değilde</em> firewall gibi yapıların olup olmadığını anlamak için kullanıyoruz.</li>
