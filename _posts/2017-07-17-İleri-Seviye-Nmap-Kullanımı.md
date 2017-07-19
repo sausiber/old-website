@@ -170,7 +170,7 @@ Bu scriptlerin ne işe yaradıklarını istediğiniz bir editörle (vim, nano ya
 
 Örneğin <strong>os discovery</strong> için kullanılan <strong>smb-os-discovery.nse</strong> scriptine bakalım.
 
-<img class="aligncenter size-large wp-image-287" src="http://sausiber.org/images/nmap/nmap-nse-os-discovery-1024x358.png" alt="" width="750" height="262" />
+<img class="aligncenter size-large wp-image-287" src="http://sausiber.org/images/nmap/nmap-nse-os-discovery.png" alt="" width="750" height="262" />
 
 Açıklamaları okuduğumuzda bu scriptin <strong>smb protokolünü</strong> kullanarak <strong>işletim sistemi keşfi</strong> yaptığını öğrendik ve yukarıdaki fotoğraftan görüldüğü gibi nasıl kullanabileceğimizide gösteriyor. İsterseniz elimizi kirletip bir deneyelim.
 <ul>
