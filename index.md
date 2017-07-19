@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: index.html
-title:
-description:
+title: SauSiber
+description: SauSiber
 ---
 
 
