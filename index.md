@@ -2,7 +2,7 @@
 layout: default
 permalink: index.html
 title: SauSiber
-description: SauSiber
+description: Sakarya Üniversitesi Siber Güvenlik Topluluğu Resmi Web Sayfasıdır.
 ---
 
 
