@@ -1,5 +1,7 @@
-Mehmet INCE 
+Mehmet INCE
+
 https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ 
+
 İzin alınarak paylaşılmıştır.
 
 
