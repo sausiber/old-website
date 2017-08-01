@@ -82,7 +82,7 @@ Bu dersi okulda iyi dinleyin candostlar. Okulda verilen ile kalmayıp üzerine d
 
 Bu derslere benim baktığım açı şu olmuştu.
 
-<center><img class="aligncenter wp-image-267" src="http://sausiber.org/images/mdisec/1.jpg" alt="" width="310" height="18" /></center>
+<center><img src="http://sausiber.org/images/mdisec/1.jpg" class="img-responsive " alt=""/></center>
 
 Hazırlamak istediğim bir çalışma vardı. Elimde bir dünya log, hangilerinin siber saldırı hangilerininse normal kullanıcı trafiği olduğunu oturup günlerce elle işaretlemiştim(öğrencilik işte.). Yani elimizde iki tür veri var. Biri saldırı kayıtları, diğeri ise normal kullanıcı trafiğini ifade eden kullanıcı kayıtları.
 
@@ -144,7 +144,7 @@ Bu konuda daha önce yazmışım, buyrunuz cevaplar burada.
 
 Basılı yayım olarak aldığım ve okuduğum kitapların olduğu dolabımın fotoğrafı aşağıda. Mevzu bahis siber güvenlik ise hemen hemen her şey hakkında temel bilgiye sahip olmanız gerektiği kanaatindeyim.
 
-<center><img class="aligncenter wp-image-267" src="http://sausiber.org/images/mdisec/2.jpg" alt="" width="310" height="18" /></center>
+<center><img src="http://sausiber.org/images/mdisec/2.jpg" class="img-responsive " alt=""/></center>
 
 Bu nedenle ömrümde hiç yazmadığım bir dil .NET’ hakkında bir kitap var. Bu kitap ile MVC ve WebForm arasındaki farkları öğrendim. Artık bir web uygulamasının arayüzüne baktığımda, webform uygulamanın otomatik tablo özelliğiyle ekrana verilerin geldiğini görüp bu duruma özel saldırı kodları ve yöntemlerini kullanmaya başlamaktayım. Öte yandan .NET projelerin konfigürasyon dosyalarının yerini ve içeriğini öğrendim ki bu da çok işe yaradı geçmişimde.
 
