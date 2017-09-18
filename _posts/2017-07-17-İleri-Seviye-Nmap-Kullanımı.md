@@ -1,3 +1,9 @@
+---
+layout: post
+title: İleri Seviye Nmap Kullanımı
+comments: true
+---
+
 Bu yazımda <strong>Penetration Test</strong> lerde(<em>Sızma testleri</em>) sıklıkla kullanılan "<strong><em>Nmap</em></strong>" adlı araçtan bahsetmek istiyorum. Ne işe yaradığından bahsedelim ilk önce.<!--more-->
 
 <em>Nmap</em>, ağdaki <strong>cihazlara</strong> ve <strong>cihazların portlarına</strong> çeşitli paketler gönderip ve cevaplara bakarak cihazın açık olup olmadığını, açık olan portlar üzerinde hangi <em>servislerin</em> çalıştığını, cihazların hangi <em>işletim sistemini</em> kullandığını öğrenmemize olanak sağlayan <em>open-source</em> bir araçtır. Bu saydığım özelliklerin yanı sıra Nmap'in çok kullanışlı farklı özellikleri de bulunuyor. <strong>Firewall detection</strong>, <strong>Vullnerability Scanning</strong> (<em>Zafiyet taraması</em>), <strong>Exploitation</strong> (<em>Zafiyetleri istismar etme</em>) ve <strong>NSE Scriptleri</strong> sayesinde (Yazı sonunda değineceğim) daha bir çok özelliği içerisinde bulunduruyor.
@@ -210,14 +216,6 @@ Bu parametreleri direk ezberlemeyi önermem, bunları kullana kullana öğrenece
 
 <strong>**Nmap kullanımının yasal  olup olmadığını bilmiyorum bu yüzden sanal ortamda denemenizi öneririm.</strong>
 
-
 Yazar
 
-<div class="col-sm-4 col-sm-offset-2">
-        <div class="team-member">
-            <img src="http://sausiber.org/images/team/{{ site.people[6].pic }}.jpg" class="img-responsive img-circle" alt="">
-            <h4>{{ site.people[6].name }}</h4>
-              {% for network in site.people[6].social %}
-               <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-              {% endfor %}
-</div>
+Umut Tosun
