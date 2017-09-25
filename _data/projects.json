@@ -1,3 +1,9 @@
 [
-
+	{
+		"name": "Tanışma",
+		"image": "avatar.png",
+		"url": "/tanisma",
+		"date": "Eylül 27",
+		"tags": ["Tanışma"]
+	},
 ]
