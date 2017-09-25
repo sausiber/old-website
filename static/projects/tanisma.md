@@ -6,13 +6,7 @@ permalink: /tanisma
 
 <center><img src="http://sausiber.org/images/Tanisma.png" class="img-responsive " alt=""></center>
 
-Yeni dönem yeni ufuklar! Kulübümüzde yeni yüzler görmek ve kulübümüzü yeni fikirler ile büyütmek için dopdolu bir tanışma toplantısı yapacağız. Toplantıda; yapacaklarımız, eğitimler, siber güvenlik ve kulübümüzün tanıtımı gibi konuları sohbet havasında konuşacağız. 
+Sakarya Üniversitesi Siber Güvenlik Öğrenci Topluluğu, Sakarya Üniversitesi bünyesinde Siber Güvenlik ve Bilgi Güvenliği konularında aktif faaliyet gösteren bir öğrenci topluluğuyuz. Topluluk olarak temel amacımız Siber Güvenlik ve Bilgi Güvenliği konularında bireyleri bilinçlendirmek, siber güvenlik stratejilerini anlamak ve belirlemek, siber güvenliğin önemini anlatmak ve bu alanda çalışacak bireyleri yetiştirmek ve eğitmektir. Kulübümüz için yeni yüzlerle tanışmak ve ekibimizi yeni fikirler ile büyütmek için bir tanışma toplantısı düzenlemekteyiz. Merak ettiklerinizi sorabileceğiniz ve fikirlerinizi belirtebileceğiniz tanışma toplantımıza sizi de bekleriz.
 
-Bu toplantıya hepinizi bekliyoruz!
-
-
-Tarih: 27 Eylül 2017
-
-Saat: 13:30
-
-Yer: 1201 no'lu sınıf
+Yer: Haşim Gürdamar Bilgisayar ve Bilişim Bilimleri Fakültesi <strong>1201</strong> Nolu Sınıf
+Tarih: <strong>27.09.2017 13:30</strong>
