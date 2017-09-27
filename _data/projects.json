@@ -5,5 +5,12 @@
 		"url": "/tanisma",
 		"date": "Eylül 27",
 		"tags": ["Tanışma"]
+	},
+	{
+		"name": "Linux Kurulum",
+		"image": "Linux.png",
+		"url": "/kurulum",
+		"date": "Eylül 29",
+		"tags": ["Linux"]
 	}
 ]
