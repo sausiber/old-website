@@ -13,6 +13,9 @@ Etkinliğe aşağıda verilen anahtar kelimeler incelenerek gelinmesi etkinlikte
 <strong>Anahtar Kelimeler:</strong>
 
 -Linux dizin yapısı
+
 -Temel Linux komutları
+
 -Linux kabuğu
+
 -Linux dağıtımları
