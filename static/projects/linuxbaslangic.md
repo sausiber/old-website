@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux 101
-permalink: /linux101
+permalink: /linuxbaslangic
 ---
 
 Siber güvenliğe ilk adım için 29 Eylül günü yaptığımız Linux kurulumundan sonra bu sistemin temel yapısını öğrenmek için bir etkinlik hazırladık. Bu etkinliğin amacı Linux'u sizlere tanıtmak, çalışma yapısını anlatmak, dizin hiyerarşisi, temel kabuk komutları ve bazı dağıtımlar hakkında bilgi edinmek olacak. Etkinliğin sonunda bu alanda kendisini geliştirmek isteyenler için ek kaynaklar ve anahtar kelimeler paylaşılacaktır. 
