@@ -12,5 +12,12 @@
 		"url": "/kurulum",
 		"date": "Eylül 29",
 		"tags": ["Linux"]
-	}
+	},
+	{
+		"name": "Linux 101",
+		"image": "Linux.png",
+		"url": "/linux101",
+		"date": "Ekim 4",
+		"tags": ["Linux"]
+	},
 ]
