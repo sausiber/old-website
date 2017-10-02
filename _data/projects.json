@@ -14,9 +14,9 @@
 		"tags": ["Linux"]
 	},
 	{
-		"name": "Linux 101",
+		"name": "Linux Başlangıç",
 		"image": "Linux.png",
-		"url": "/linux101",
+		"url": "/linuxbaslangic",
 		"date": "Ekim 4",
 		"tags": ["Linux"]
 	}
