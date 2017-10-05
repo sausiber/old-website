@@ -21,3 +21,5 @@ Etkinliğe aşağıda verilen anahtar kelimeler incelenerek gelinmesi etkinlikte
 -Linux kabuğu
 
 -Linux dağıtımları
+
+<a href="/notlar/Linux_101.pdf">Eğitim Dokümanı</a> 
