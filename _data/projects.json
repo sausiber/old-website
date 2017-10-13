@@ -26,5 +26,12 @@
 		"url": "/network",
 		"date": "Ekim 11",
 		"tags": ["Network"]
+	},
+	{
+		"name": "Kablosuz Ağ Saldırıları",
+		"image": "wifi.png",
+		"url": "/wifi",
+		"date": "Ekim 18",
+		"tags": ["Wi-fi"]
 	}
 ]
