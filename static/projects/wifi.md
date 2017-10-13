@@ -15,4 +15,5 @@ Etkinliğe aşağıda verilen anahtar kelimeler incelenerek gelinmesi etkinlikte
 <strong>Anahtar Kelimeler:</strong>
 
 -Deauthentication
+
 -WPA2
