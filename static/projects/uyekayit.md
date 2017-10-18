@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Üye Kayıt
-permalink: /uyekayit.md
+permalink: /uyekayit
 ---
 
 Ekibimizin büyümesi için aramıza yeni yüzler alacağız. Kayıt olmak için aşağıdaki linke tıklayarak kayıt olunuz.
