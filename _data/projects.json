@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Üye Kayıt",
+		"image": "kayit.jpg",
+		"url": "/uyekayit",
+		"date": "Ekim 18",
+		"tags": ["Kayıt"]
+	},
+	{
 		"name": "Tanışma",
 		"image": "avatar.png",
 		"url": "/tanisma",
