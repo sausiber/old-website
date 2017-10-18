@@ -21,3 +21,7 @@ Etkinliğe aşağıda verilen anahtar kelimeler incelenerek gelinmesi etkinlikte
 -OSI
 
 -TCP/IP
+
+
+<a href="/notlar/Networking-101">Eğitim Dokümanı</a> 
+
