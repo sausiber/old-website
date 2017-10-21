@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Bilgi Toplama",
+		"image": "bilgi.jpg",
+		"url": "/bilgitoplama",
+		"date": "Ekim 25",
+		"tags": ["Bilgi Toplama"]
+	},
+	{
 		"name": "Üye Kayıt",
 		"image": "kayit.jpg",
 		"url": "/uyekayit",
@@ -7,25 +14,11 @@
 		"tags": ["Kayıt"]
 	},
 	{
-		"name": "Tanışma",
-		"image": "avatar.png",
-		"url": "/tanisma",
-		"date": "Eylül 27",
-		"tags": ["Tanışma"]
-	},
-	{
-		"name": "Linux Kurulum",
-		"image": "Linux.png",
-		"url": "/kurulum",
-		"date": "Eylül 29",
-		"tags": ["Linux"]
-	},
-	{
-		"name": "Linux Başlangıç",
-		"image": "Linux.png",
-		"url": "/linuxbaslangic",
-		"date": "Ekim 04",
-		"tags": ["Linux"]
+		"name": "Kablosuz Ağ Saldırıları",
+		"image": "wifi.png",
+		"url": "/wifi",
+		"date": "Ekim 18",
+		"tags": ["Wi-fi"]
 	},
 	{
 		"name": "Network ve Güvenlik",
@@ -35,10 +28,24 @@
 		"tags": ["Network"]
 	},
 	{
-		"name": "Kablosuz Ağ Saldırıları",
-		"image": "wifi.png",
-		"url": "/wifi",
-		"date": "Ekim 18",
-		"tags": ["Wi-fi"]
+		"name": "Linux Başlangıç",
+		"image": "Linux.png",
+		"url": "/linuxbaslangic",
+		"date": "Ekim 04",
+		"tags": ["Linux"]
+	},
+	{
+		"name": "Linux Kurulum",
+		"image": "Linux.png",
+		"url": "/kurulum",
+		"date": "Eylül 29",
+		"tags": ["Linux"]
+	},
+	{
+		"name": "Tanışma",
+		"image": "avatar.png",
+		"url": "/tanisma",
+		"date": "Eylül 27",
+		"tags": ["Tanışma"]
 	}
 ]
