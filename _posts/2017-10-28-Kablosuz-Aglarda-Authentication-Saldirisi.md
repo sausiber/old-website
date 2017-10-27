@@ -57,5 +57,5 @@ Ayrıca gönderilen paketlere bakıldığında her birinin farklı bir mac adres
  	<li><span style="font-weight: 400;"> Hedef AP ile aradaki fiziksel uzaklığın fazla olması.</span></li>
 </ul>
 
-<b>Yazar</b> </br>
+<b>Yazar</b> <br>
 Ömer GÜNAL
