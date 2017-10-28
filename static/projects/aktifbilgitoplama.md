@@ -7,7 +7,7 @@ permalink: /aktifbilgitoplama
 
 Aktif bilgi toplama, hedef ile direkt olarak temasa geçilerek yapılan bir bilgi toplama işlemidir. Temasın oluşmasından ötürü hedef sistem üzerinde izler bırakılır. Bu hafta ki etkinliğimiz geçen hafta gerçekleşen "Bilgi Toplama" etkinliğimizin devamı niteliğinde olup aktif bilgi toplama yöntemleri, bilgi toplarken dikkat edilmesi gereken hususlar gibi konuların ele alınacağı uygulamalı bir etkinlik olacaktır.
 
-<b>EK:</b> Bu hafta ki etkinlikte akademik başkanızımız <b>Doç. Dr. İbrahim Özçelik</b> siber güvenlikte kariyer planlaması, siber güvenliğin alt başlıkları, siber güvenlik sektörüne genel bakış ve sektördeki gelişmelerden bahsedecektir. Ayrıca soru-cevap için belirli bir süre ayrılacaktır.
+<b>EK:</b> Bu hafta ki etkinlikte akademik başkanımız <b>Doç. Dr. İbrahim Özçelik</b> siber güvenlikte kariyer planlaması, siber güvenliğin alt başlıkları, siber güvenlik sektörüne genel bakış ve sektördeki gelişmelerden bahsedecektir. Ayrıca soru-cevap için belirli bir süre ayrılacaktır.
 
 <b>Uygulama yapmak isteyen katılımcılar kendi laptoplarını getirmelidirler.</b> <br>
 
