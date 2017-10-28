@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Aktif Bilgi Toplama",
+		"image": "bilgi.jpg",
+		"url": "/aktifbilgitoplama",
+		"date": "1 Kasım",
+		"tags": ["Aktif Bilgi Toplama"]
+	},
+	{
 		"name": "Bilgi Toplama",
 		"image": "bilgi.jpg",
 		"url": "/bilgitoplama",
