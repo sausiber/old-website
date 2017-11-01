@@ -23,5 +23,5 @@ Etkinliğe aşağıda verilen anahtar kelimeler incelenerek gelinmesi etkinlikte
 -TCP/IP
 
 
-<a href="/notlar/Networking-101">Eğitim Dokümanı</a> 
+<a href="/notlar/Networking-101.pdf">Eğitim Dokümanı</a> 
 

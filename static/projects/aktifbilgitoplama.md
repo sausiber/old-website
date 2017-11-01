@@ -15,4 +15,4 @@ Aktif bilgi toplama, hedef ile direkt olarak temasa geçilerek yapılan bir bilg
 Etkinlik <b>1 Kasım Çarşamba</b> günü <b>1102 No</b> lu sınıfta saat <b>13:30</b> da gerçekleştirilecektir.
 
 
-<a href="/notlar/Aktif">Eğitim Dokümanı</a> 
+<a href="/notlar/Aktif.pdf">Eğitim Dokümanı</a> 
