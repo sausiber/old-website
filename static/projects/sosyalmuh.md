@@ -8,4 +8,4 @@ Sosyal mühendislik ; insanların zaafiyetlerinden faydalanarak çeşitli ikna v
 Kişilerin sosyal mühendislik saldırılarına karşı önlem alabilmelerinin en etkili yolu bilinçlenmeleridir. Çünkü gerek günlük hayatımızda, gerek iş hayatımızda hangi tehtidin nereden gelebileceğini kestirmek mümkün değildir.
 <br>
 Gerçekleşecek olan etkinliğimizde sosyal mühendisliğin tanımına, tekniklerine, oluşturabileceği tehtidlerine ve nasıl önlemler üretebileceğimize değineceğiz.
-Etkinlik <br><b>22 Kasım Çarşamba</b> günü <b>1102</b> No'lu sınıfta saat <b>13:30</b> da gerçekleştirilecektir.
+ <br>Etkinlik <b>22 Kasım Çarşamba</b> günü <b>1102</b> No'lu sınıfta saat <b>13:30</b> da gerçekleştirilecektir.
