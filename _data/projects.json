@@ -54,5 +54,12 @@
 		"url": "/tanisma",
 		"date": "Eylül 27",
 		"tags": ["Tanışma"]
+	},
+		{
+		"name": "Sosyal Mühendislik",
+		"image": "sosyalmuh.png",
+		"url": "/sosyal-muh",
+		"date": "Kasım 22",
+		"tags": ["Sosyal Mühendislik"]
 	}
 ]
