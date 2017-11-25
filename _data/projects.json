@@ -1,4 +1,11 @@
 [
+		{
+		"name": "Kriptoloji",
+		"image": "kriptoloji.jpg",
+		"url": "/kriptoloji",
+		"date": "Kasım 29",
+		"tags": ["Kriptoloji"]
+	},
 	{
 		"name": "Sosyal Mühendislik",
 		"image": "sosyalmuh.png",
