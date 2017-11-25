@@ -18,3 +18,5 @@ Sezar algoritması ile gizlenmiş bir bilgi örneğidir. Buna benzer daha birço
 
 Etkinliğimiz <b>29 Kasım Çarşamba</b> günü <b>1202</b> Nolu sınıfta saat <b>13:00</b> da gerçekleşecektir.
 
+<b>NOT:</b> Etkinlik uygulamalı olacağından katılımcıların Ubuntu yüklü laptopları ile gelmeleri gerekmektedir.
+
