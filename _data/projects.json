@@ -1,5 +1,12 @@
 [
-		{
+	{
+		"name": "Güvenlik İzleme ve Olay Müdahale Süreçleri",
+		"image": "kibana.png",
+		"url": "/guvenli_izleme",
+		"date": "Aralık 06",
+		"tags": ["Dış Etkinlik"]
+	},
+	{
 		"name": "Kriptoloji",
 		"image": "kriptoloji.png",
 		"url": "/kriptoloji",
