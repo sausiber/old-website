@@ -16,3 +16,6 @@ Sunum içeriği;
 
 
 Etkinlik <strong>6 Aralık</strong> Çarşamba günü <strong>Sakarya Üniversitesi Kültür ve Kongre Merkezi Salon 4</strong>'te <strong>15:00</strong>'da başlayacaktır.
+
+
+<center><img src="http://sausiber.org/images/guvenli-izleme" class="img-responsive " alt=""></center>
