@@ -1,7 +1,7 @@
 title: SaüSiber
 description: SaüSiber Blog
 logo: /static/img/avatar.png
-about: Sakarya Üniversitesi Siber Güvenlik Kulübü
+about: Sakarya Üniversitesi Siber Güvenlik Topluluğu
 
 baseurl: ""
 url: ""
@@ -9,7 +9,7 @@ url: ""
 allowsearch: true
 
 disqus_shortname: sausiber-org
-google_analytics: 
+google_analytics:
 
 share:
   twitter_username: sausiber
