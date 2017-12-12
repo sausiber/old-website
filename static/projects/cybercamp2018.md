@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bilgi Toplama
-permalink: /bilgitoplama
+title: CyberCamp 2018
+permalink: /cybercamp2018
 ---
 
 Dünyada ve ülkemizde siber güvenliğin önemi giderek artıyor. Ülkemizin bu alanda yetişmiş
