@@ -1,4 +1,12 @@
 [
+	
+	{
+		"name": "CybeyCamp 2018",
+		"image": "cybercamp.png",
+		"url": "/cybercamp2018",
+		"date": "Ocak 23",
+		"tags": ["Dış Etkinlik"]
+	},
 	{
 		"name": "Güvenlik İzleme ve Olay Müdahale Süreçleri",
 		"image": "kibana.png",
