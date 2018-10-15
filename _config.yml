@@ -27,20 +27,9 @@ gems: [jekyll-paginate, jekyll-gist]
 
 
 people:
-- name: Ahmet Derviş
+- name: Semih Demirci
   pic: 1
   position: Başkan
-  social:
-    - title: twitter
-      url: https://twitter.com/adrvs42
-    - title: github
-      url: https://github.com/adervis3
-    - title: linkedin
-      url: https://tr.linkedin.com/in/ahmet-dervis
-
-- name: Semih Demirci
-  pic: 2
-  position: Başkan Yardımcısı
   social:
     - title: twitter
       url: https://twitter.com/
@@ -49,9 +38,9 @@ people:
     - title: linkedin
       url: https://tr.linkedin.com/in/
 
-- name: Gurbet Başakçi
-  pic: 3
-  position: Sekreter
+- name: Alperen Örsdemir
+  pic: 2
+  position: Başkan Yardımcısı
   social:
     - title: twitter
       url: https://twitter.com/basakgurbet
@@ -60,19 +49,96 @@ people:
     - title: linkedin
       url: https://tr.linkedin.com/in/gurbet-başakçi-048551135
 
-- name: Mert Derebaşı
-  pic: 4
-  position:  Üye
+- name: Kadir Arslan
+  pic: 3
+  position: Siber Güvenlik Kümelenmesi Temsilcisi
   social:
     - title: twitter
-      url: https://twitter.com/MertHasanD
+      url: https://twitter.com/kadars_
     - title: github
-      url: https://github.com/merthasanderebasi
+      url: https://github.com/KadirArslan
     - title: linkedin
-      url: www.linkedin.com/in/merthasanderebasi
+      url: https://www.linkedin.com/in/kadirarslan1/
+
+- name: Cahit Tulum
+  pic: 4
+  position: Sekreter
+  social:
+    - title: twitter
+      url: https://twitter.com/cahittulum
+    - title: github
+      url: https://github.com/Imperiosx
+    - title: linkedin
+      url: https://www.linkedin.com/in/cahit-tulum-28b185126
+
+- name: Özgür Algül
+  pic: 5
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/ozguralgul44
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/özgür-algül-1b9761152
+
+- name: Hasan Tenk
+  pic: 6
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/tnk_hasan
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/hasan-tenk-78aa60150
+
+- name: Ertuğrul Karababa
+  pic: 7
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: https://linkedin.com/in/ertuğrul-karababa-a96926102
+
+- name: Züleyha Müzennet
+  pic: 8
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: www.linkedin.com/
+
+- name: Gurbet Başakçi
+  pic: 9
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/gurbetbasakci
+    - title: github
+      url: https://github.com/gurbetbasakci
+    - title: linkedin
+      url: https://www.linkedin.com/in/gurbet-başakçi-048551135
+
+- name: Mert Derebaşı
+  pic: 10
+  position: Üye
+  social:
+    - title: twitter
+      url: https://twitter.com/
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: https://www.linkedin.com/
 
 - name: Hakan İlbiz
-  pic: 5
+  pic: 11
   position: Üye
   social:
     - title: github
@@ -80,19 +146,8 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/hakan-ilbiz-769191131?trk=nav_responsive_tab_profile_pic
 
-- name: Ömer Günal
-  pic: 6
-  position:  Üye
-  social:
-    - title: twitter
-      url: https://twitter.com/ogunal00
-    - title: github
-      url: https://github.com/omergunal
-    - title: linkedin
-      url: https://www.linkedin.com/in/%C3%B6mer-g%C3%BCnal-677271130/
-
 - name: Umut Tosun
-  pic: 7
+  pic: 12
   position:  Üye
   social:
     - title: twitter
@@ -102,13 +157,13 @@ people:
     - title: linkedin
       url: https://github.com/umuttosun
 
-- name: Ulaş Fırat Özdemir
-  pic: 8
-  position: Üye
+- name: Ömer Günal
+  pic: 13
+  position:  Üye
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ogunal00
     - title: github
-      url: #
+      url: https://github.com/omergunal
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/%C3%B6mer-g%C3%BCnal-677271130/
