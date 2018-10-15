@@ -39,7 +39,7 @@ people:
       url: https://www.linkedin.com/in/semih-demirci-364a019b
 
 - name: Alperen Örsdemir
-  pic: 2a
+  pic: 2
   position: Başkan Yardımcısı
   social:
     - title: twitter
@@ -138,7 +138,7 @@ people:
       url: https://www.linkedin.com/
 
 - name: Hakan İlbiz
-  pic: 11
+  pic: 12
   position: Üye
   social:
     - title: github
@@ -147,7 +147,7 @@ people:
       url: https://www.linkedin.com/in/hakan-ilbiz-769191131?trk=nav_responsive_tab_profile_pic
 
 - name: Umut Tosun
-  pic: 12
+  pic: 11
   position:  Üye
   social:
     - title: twitter
