@@ -48,17 +48,6 @@ people:
       url: https://github.com/gurbetbasakci
     - title: linkedin
       url: https://tr.linkedin.com/in/gurbet-başakçi-048551135
-
-- name: Cahit Tulum
-  pic: 4
-  position: Sekreter
-  social:
-    - title: twitter
-      url: https://twitter.com/cahittulum
-    - title: github
-      url: https://github.com/Imperiosx
-    - title: linkedin
-      url: https://www.linkedin.com/in/cahit-tulum-28b185126
       
 - name: Kadir Arslan
   pic: 3
@@ -70,7 +59,18 @@ people:
       url: https://github.com/KadirArslan
     - title: linkedin
       url: https://www.linkedin.com/in/kadirarslan1/
-
+      
+- name: Cahit Tulum
+  pic: 4
+  position: Sekreter
+  social:
+    - title: twitter
+      url: https://twitter.com/cahittulum
+    - title: github
+      url: https://github.com/Imperiosx
+    - title: linkedin
+      url: https://www.linkedin.com/in/cahit-tulum-28b185126
+      
 - name: Özgür Algül
   pic: 5
   position: Üye
