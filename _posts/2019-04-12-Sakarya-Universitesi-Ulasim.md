@@ -23,3 +23,6 @@ Sakarya Otogarından çarşıya giden minibüslere binerek Ormanpark durağına 
 <b>M5 Binası Konumu</b>
 
 <a href="https://www.google.com/maps/place/40%C2%B044'27.6%22N+30%C2%B019'47.5%22E/@40.740999,30.3293258,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d40.7409986!4d30.3298726">https://www.google.com/maps/place/40%C2%B044'27.6%22N+30%C2%B019'47.5%22E/@40.740999,30.3293258,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d40.7409986!4d30.3298726</a>
+
+
+Not : Tren garını kullanacak arkadaşlar bizimle iletişime geçebilir. İletişim için : sausiber@gmail.com
