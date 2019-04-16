@@ -11,7 +11,7 @@ permalink: /uyeler/
             {% for member in site.people %}
             <div class="col-lg-4">
                 <div class="team-member"><br>
-                    <center><img src="http://sausiber.org/assets/uyeler/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                    <center><img src="http://sausiber.github.io/assets/uyeler/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                     <p class="text-muted"><h4>{{ member.name }}</h4>  {{member.position}}  --  
                         {% for network in member.social %}
                             <a href="{{ network.url }}">
