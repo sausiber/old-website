@@ -1,0 +1,190 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family: 'Aldrich';
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.container{
+    width:100%;
+    height:100vh;
+    color:white;
+    display:flex;
+    text-align:center;
+    background-color: black;
+    flex-direction:column;
+}
+
+.logo img {
+    width:auto;
+    height: 50vh;
+    animation: logo-animation 0.8s ease-out forwards;
+}
+
+.intro h2{
+    overflow: hidden;
+    white-space: nowrap;
+    color: gray;
+    margin: 10px auto 0 auto;
+    letter-spacing: .15em;
+    animation: typing 2s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+h2.media{
+    display:none;
+}
+
+.menu{
+    display:flex;
+    max-width:100%;
+    justify-content: center;
+    margin-top:30px;
+}
+
+.menu-item{
+    border: 2px solid white;
+    padding:10px;
+    margin:0 10px;
+    min-width:100px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color:white;
+    display: block;
+}
+
+.menu-item:hover{
+    animation: btn-hover 0.8s forwards;
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.c2{
+    background-color: black;
+}
+
+.hakkimizda{
+  width:auto;
+  max-width:50%;
+  height: 100%;
+  display:flex;
+  margin:20px auto 0 auto;
+ 
+}
+
+.sol{
+    border:2px solid;
+    border-top:none;
+    padding:20px;
+    border-bottom:none;
+    align-self: center;
+    max-height: 80%;
+    text-align: center;
+}
+
+.sol h2{
+    width: 150px;
+    padding:10px;
+    border:2px solid white;
+    border-top:none;
+    margin:0 auto;
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.c3{
+
+}
+
+.ekip{
+    margin:20px auto 0 auto;
+    height: 90vh;
+    width:90%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.ekip-content{
+    margin-top: 30px;
+    display: flex;
+    width:70%;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items:center;
+}
+
+.ekip-baslik{
+    width:150px;
+    padding:10px;
+    border:2px solid white;
+    border-top:none;
+}
+
+
+/*----------------------------------------------------------------------------------------------*/
+
+
+.c4{
+    
+}
+
+
+/*----------------------------------------------------------------------------------------------*/
+
+
+.c5{
+    
+}
+
+
+@keyframes logo-animation {
+    from{
+       transform:translateY(0)
+   }
+    to{
+       transform:translateY(50px)
+   }
+}
+
+@keyframes typing {
+    from {
+        width: 0 
+   }
+    to {
+        width: 100% 
+   }
+}
+@keyframes blink-caret {
+    from, to {
+        border-color: transparent 
+   }
+    50% {
+        border-color: orange;
+   }
+}
+
+@keyframes btn-hover{
+    0% {
+       border-bottom:none;
+   }
+    25% {
+       border-left:none;
+   }
+    75% {
+       border-top:none;
+   }
+    100% {
+       border-right:none;
+   }
+}
