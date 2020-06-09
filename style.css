@@ -21,6 +21,7 @@ body{
     text-align:center;
     background-color: black;
     flex-direction:column;
+    overflow:scroll;
 }
 
 .logo img {
@@ -118,9 +119,9 @@ h2.media{
 .ekip-content{
     margin-top: 30px;
     display: flex;
-    width:70%;
+    width:80%;
     flex-wrap:wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items:center;
 }
 
@@ -131,22 +132,127 @@ h2.media{
     border-top:none;
 }
 
+.uye{
+  margin:auto 5px;
+}
+
 
 /*----------------------------------------------------------------------------------------------*/
 
 
 .c4{
-    
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
 }
 
+.c4 h2{
+  border:2px solid white;
+  border-top:none;
+  padding:10px;
+  margin-top:20px;
+}
+
+.c4-container{
+  height: 90vh;
+  width:90%;
+  display:flex;
+  align-items:stretch;
+  justify-content:center;
+}
+
+.etkinlik{
+  display:flex;
+  flex-direction:column;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:center;
+  max-height:100%;
+  width:60%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bdbdbd;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.eee{
+  width:250px;
+  height:50vh;
+  margin:10px;
+  border:2px solid white;
+}
 
 /*----------------------------------------------------------------------------------------------*/
 
 
 .c5{
-    
+  justify-content: center;
+  align-items:center;
 }
 
+.c5-container{
+  height: 90vh;
+  width:90%;
+}
+
+.c5 h2{
+  border:2px solid white;
+  border-top:none;
+  padding:10px;
+  margin-top:10px;
+}
+
+.blog{
+  display:flex;
+  flex-direction:column;
+  height:90%;
+  justify-content:center;
+  align-items:center;
+  width:90%;
+  margin:15px auto;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.yazi{
+  width:80%;
+  height:25%;
+  margin-top:10px;
+  padding:10px;
+  border:2px solid white;
+}
+
+/*----------------------------------------------------------------------------------------*/
+
+.c6{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.iletisim{
+  display:grid;
+  width:60%;
+  height:70%;
+  grid-template:1fr 1fr 1fr / 1fr 1fr;
+  position: relative;
+}
 
 @keyframes logo-animation {
     from{
@@ -187,4 +293,34 @@ h2.media{
     100% {
        border-right:none;
    }
+}
+
+@media only screen and (max-width: 800px) {
+    @keyframes logo-animation {
+        from{
+           transform:translateY(0)
+       }
+        to{
+           transform:translateY(40px)
+       }
+    }
+
+    h2.media{
+        display:block;
+          width:100%;
+        }
+    h2.normal{
+          display:none;
+        }
+
+    .menu{
+        flex-direction:column;
+        align-items: center;
+    }
+
+    .menu-item{
+        border: 2px solid white;
+        min-width:40%;
+        margin-top:10px;
+    }
 }

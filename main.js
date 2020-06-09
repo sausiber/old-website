@@ -1,5 +1,5 @@
-var x = document.createElement('div');
 var y = true;
+var x = document.createElement('div');
 
 
 function myfunc(){
